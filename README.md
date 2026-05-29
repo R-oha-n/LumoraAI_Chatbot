@@ -28,5 +28,5 @@ Built for hackathons, it's lightweight, beginner-friendly, and uses the Hugging 
 ### 1. Clone the project
 
 ```bash
-git clone https://github.com/copycode69/mindease.git
-cd mindease
+git clone https://github.com/R-oha-n/LumoraAI_Chatbot.git
+cd LumoraAI_Chatbot
